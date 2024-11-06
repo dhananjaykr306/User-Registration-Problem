@@ -1,0 +1,4 @@
+2024-11-06 14:48:58,438:INFO:example:This is an info message
+2024-11-06 14:48:58,438:WARNING:example:This is a warning message
+2024-11-06 14:48:58,439:ERROR:example:This is an error message
+2024-11-06 14:48:58,439:CRITICAL:example:This is a critical message
