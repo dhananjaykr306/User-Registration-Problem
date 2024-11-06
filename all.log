@@ -30,3 +30,31 @@
 2024-11-06 15:34:48,371:WARNING:name_validation:Invalid last name entered: Kum@
 2024-11-06 15:34:48,372:WARNING:name_validation:Invalid last name entered: K
 2024-11-06 15:34:48,373:INFO:name_validation:Valid last name entered: Kim
+2024-11-06 15:52:16,192:INFO:name_email_validation:Valid first name entered: Dhananjay
+2024-11-06 15:52:16,193:INFO:name_email_validation:Valid last name entered: Kumar
+2024-11-06 15:52:16,193:INFO:name_email_validation:Valid email entered: shaurya2123@gmail.com
+2024-11-06 15:52:38,032:INFO:name_email_validation:Valid first name entered: Shaurya
+2024-11-06 15:52:38,039:WARNING:name_email_validation:Invalid first name entered: shaurya
+2024-11-06 15:52:38,040:WARNING:name_email_validation:Invalid first name entered: SHAURYA
+2024-11-06 15:52:38,041:WARNING:name_email_validation:Invalid first name entered: Sh
+2024-11-06 15:52:38,043:WARNING:name_email_validation:Invalid first name entered: S
+2024-11-06 15:52:38,044:WARNING:name_email_validation:Invalid first name entered: 1234
+2024-11-06 15:52:38,044:WARNING:name_email_validation:Invalid first name entered: !@#
+2024-11-06 15:52:38,045:WARNING:name_email_validation:Invalid first name entered: Shau@
+2024-11-06 15:52:38,047:WARNING:name_email_validation:Invalid first name entered: S
+2024-11-06 15:52:38,048:INFO:name_email_validation:Valid first name entered: Sha
+2024-11-06 15:52:38,049:INFO:name_email_validation:Valid last name entered: Kumar
+2024-11-06 15:52:38,050:INFO:name_email_validation:Valid last name entered: Smith
+2024-11-06 15:52:38,054:WARNING:name_email_validation:Invalid last name entered: kumar
+2024-11-06 15:52:38,055:WARNING:name_email_validation:Invalid last name entered: KUMAR
+2024-11-06 15:52:38,056:WARNING:name_email_validation:Invalid last name entered: Ku
+2024-11-06 15:52:38,057:WARNING:name_email_validation:Invalid last name entered: 1234
+2024-11-06 15:52:38,057:WARNING:name_email_validation:Invalid last name entered: !@#
+2024-11-06 15:52:38,059:WARNING:name_email_validation:Invalid last name entered: Kum@
+2024-11-06 15:52:38,062:WARNING:name_email_validation:Invalid last name entered: K
+2024-11-06 15:52:38,062:INFO:name_email_validation:Valid last name entered: Kim
+2024-11-06 15:52:38,064:INFO:name_email_validation:Valid email entered: abc.xyz@bl.co.in
+2024-11-06 15:52:38,065:INFO:name_email_validation:Valid email entered: abc@bl.co
+2024-11-06 15:52:38,066:INFO:name_email_validation:Valid email entered: abc.xyz@bl.co
+2024-11-06 15:52:38,098:INFO:name_email_validation:Valid email entered: a.b@bl.co.in
+2024-11-06 15:52:38,099:INFO:name_email_validation:Valid email entered: abc@bl.co.in
