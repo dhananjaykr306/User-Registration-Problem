@@ -547,3 +547,18 @@
 2024-11-08 16:03:05,285:INFO:name_email_mobile_validation:Valid password entered.
 2024-11-08 16:03:05,290:INFO:name_email_mobile_validation:Valid password entered.
 2024-11-08 16:03:05,291:WARNING:name_email_mobile_validation:Invalid password entered: a1!b2@c3#
+2024-11-08 16:18:07,285:INFO:name_email_mobile_validation:Valid first name entered: Dhananjay
+2024-11-08 16:18:07,286:INFO:name_email_mobile_validation:Valid last name entered: Kumar
+2024-11-08 16:18:07,286:INFO:name_email_mobile_validation:Valid email entered: dhananjaykr306@gmail.com
+2024-11-08 16:18:07,287:INFO:name_email_mobile_validation:Valid mobile number entered: 91 6203494332
+2024-11-08 16:18:07,287:WARNING:name_email_mobile_validation:Invalid password entered: Shaurya@123! (must contain exactly 1 special character)
+2024-11-08 16:20:22,860:INFO:name_email_mobile_validation:Valid first name entered: Dhananjay
+2024-11-08 16:20:22,860:INFO:name_email_mobile_validation:Valid last name entered: Kumar
+2024-11-08 16:20:22,861:INFO:name_email_mobile_validation:Valid email entered: dhananjaykr306@gmail.com
+2024-11-08 16:20:22,861:INFO:name_email_mobile_validation:Valid mobile number entered: 91 6203494332
+2024-11-08 16:20:22,862:WARNING:name_email_mobile_validation:Invalid password entered: Shaurya@123! (must contain exactly 1 special character, found 2)
+2024-11-08 16:21:20,983:INFO:name_email_mobile_validation:Valid first name entered: Dhananjay
+2024-11-08 16:21:20,984:INFO:name_email_mobile_validation:Valid last name entered: Kumar
+2024-11-08 16:21:20,985:INFO:name_email_mobile_validation:Valid email entered: dhananjaykr306@gmail.com
+2024-11-08 16:21:20,985:INFO:name_email_mobile_validation:Valid mobile number entered: 91 6203494332
+2024-11-08 16:21:20,986:INFO:name_email_mobile_validation:Valid password entered.
