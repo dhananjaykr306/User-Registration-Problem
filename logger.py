@@ -12,24 +12,27 @@ def logger_init(name, log_file='all.log', level=logging.INFO):
     Returns:
     logger: The configured logger.
     """
+
     # Create logger
     logger = logging.getLogger(name)
     logger.setLevel(level)  # Set the log level for the logger
 
-    # Define the formatter for log messages
-    formatter = logging.Formatter('%(asctime)s:%(levelname)s:%(name)s:%(message)s')
+    # Check if the logger already has handlers to avoid duplicate logs
+    if not logger.handlers:
+        # Define the formatter for log messages
+        formatter = logging.Formatter('%(asctime)s:%(levelname)s:%(name)s:%(message)s')
 
-    # File handler for writing logs to a file
-    file_handler = logging.FileHandler(log_file)
-    file_handler.setFormatter(formatter)  
+        # File handler for writing logs to a file
+        file_handler = logging.FileHandler(log_file)
+        file_handler.setFormatter(formatter)  
 
-    # Stream handler for printing logs to the console
-    stream_handler = logging.StreamHandler()
-    stream_handler.setFormatter(formatter)  
+        # Stream handler for printing logs to the console
+        stream_handler = logging.StreamHandler()
+        stream_handler.setFormatter(formatter)  
 
-    # Add handlers to the logger
-    logger.addHandler(file_handler)
-    logger.addHandler(stream_handler)
+        # Add handlers to the logger
+        logger.addHandler(file_handler)
+        logger.addHandler(stream_handler)
 
     return logger
 
