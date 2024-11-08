@@ -58,3 +58,223 @@
 2024-11-06 15:52:38,066:INFO:name_email_validation:Valid email entered: abc.xyz@bl.co
 2024-11-06 15:52:38,098:INFO:name_email_validation:Valid email entered: a.b@bl.co.in
 2024-11-06 15:52:38,099:INFO:name_email_validation:Valid email entered: abc@bl.co.in
+2024-11-08 14:49:02,538:INFO:name_email_mobile_validation:Valid first name entered: Shaurya
+2024-11-08 14:49:02,644:WARNING:name_email_mobile_validation:Invalid first name entered: shaurya
+2024-11-08 14:49:02,645:WARNING:name_email_mobile_validation:Invalid first name entered: SHAURYA
+2024-11-08 14:49:02,645:WARNING:name_email_mobile_validation:Invalid first name entered: Sh
+2024-11-08 14:49:02,646:WARNING:name_email_mobile_validation:Invalid first name entered: S
+2024-11-08 14:49:02,647:WARNING:name_email_mobile_validation:Invalid first name entered: 1234
+2024-11-08 14:49:02,648:WARNING:name_email_mobile_validation:Invalid first name entered: !@#
+2024-11-08 14:49:02,649:WARNING:name_email_mobile_validation:Invalid first name entered: Shau@
+2024-11-08 14:49:02,651:WARNING:name_email_mobile_validation:Invalid first name entered: S
+2024-11-08 14:49:02,652:INFO:name_email_mobile_validation:Valid first name entered: Sha
+2024-11-08 14:49:02,654:INFO:name_email_mobile_validation:Valid last name entered: Kumar
+2024-11-08 14:49:02,655:INFO:name_email_mobile_validation:Valid last name entered: Smith
+2024-11-08 14:49:02,657:WARNING:name_email_mobile_validation:Invalid last name entered: kumar
+2024-11-08 14:49:02,658:WARNING:name_email_mobile_validation:Invalid last name entered: KUMAR
+2024-11-08 14:49:02,658:WARNING:name_email_mobile_validation:Invalid last name entered: Ku
+2024-11-08 14:49:02,659:WARNING:name_email_mobile_validation:Invalid last name entered: 1234
+2024-11-08 14:49:02,660:WARNING:name_email_mobile_validation:Invalid last name entered: !@#
+2024-11-08 14:49:02,660:WARNING:name_email_mobile_validation:Invalid last name entered: Kum@
+2024-11-08 14:49:02,662:WARNING:name_email_mobile_validation:Invalid last name entered: K
+2024-11-08 14:49:02,663:INFO:name_email_mobile_validation:Valid last name entered: Kim
+2024-11-08 14:49:02,665:INFO:name_email_mobile_validation:Valid email entered: abc.xyz@bl.co.in
+2024-11-08 14:49:02,666:INFO:name_email_mobile_validation:Valid email entered: abc@bl.co
+2024-11-08 14:49:02,668:INFO:name_email_mobile_validation:Valid email entered: abc.xyz@bl.co
+2024-11-08 14:49:02,789:INFO:name_email_mobile_validation:Valid email entered: a.b@bl.co.in
+2024-11-08 14:49:02,790:INFO:name_email_mobile_validation:Valid email entered: abc@bl.co.in
+2024-11-08 14:49:02,799:INFO:name_email_mobile_validation:Valid mobile number entered: 91 6203494332
+2024-11-08 14:49:02,801:WARNING:name_email_mobile_validation:Invalid mobile number entered: 919919819801
+2024-11-08 14:49:02,802:WARNING:name_email_mobile_validation:Invalid mobile number entered: 91 991981980
+2024-11-08 14:49:02,803:WARNING:name_email_mobile_validation:Invalid mobile number entered: 91 99198198012
+2024-11-08 14:49:02,803:WARNING:name_email_mobile_validation:Invalid mobile number entered: 92 9919819801
+2024-11-08 14:49:02,804:WARNING:name_email_mobile_validation:Invalid mobile number entered: 91-9919819801
+2024-11-08 14:49:02,805:WARNING:name_email_mobile_validation:Invalid mobile number entered: 9919819801
+2024-11-08 14:49:02,805:WARNING:name_email_mobile_validation:Invalid mobile number entered: 91 99198A9801
+2024-11-08 14:49:02,808:INFO:name_email_mobile_validation:Valid mobile number entered: 91 0000000000
+2024-11-08 14:53:43,133:INFO:example:This is an info message
+2024-11-08 14:53:43,134:WARNING:example:This is a warning message
+2024-11-08 14:53:43,134:ERROR:example:This is an error message
+2024-11-08 14:53:43,134:CRITICAL:example:This is a critical message
+2024-11-08 14:53:56,492:INFO:name_email_mobile_validation:Valid first name entered: Shaurya
+2024-11-08 14:53:56,499:WARNING:name_email_mobile_validation:Invalid first name entered: shaurya
+2024-11-08 14:53:56,500:WARNING:name_email_mobile_validation:Invalid first name entered: SHAURYA
+2024-11-08 14:53:56,501:WARNING:name_email_mobile_validation:Invalid first name entered: Sh
+2024-11-08 14:53:56,502:WARNING:name_email_mobile_validation:Invalid first name entered: S
+2024-11-08 14:53:56,502:WARNING:name_email_mobile_validation:Invalid first name entered: 1234
+2024-11-08 14:53:56,503:WARNING:name_email_mobile_validation:Invalid first name entered: !@#
+2024-11-08 14:53:56,504:WARNING:name_email_mobile_validation:Invalid first name entered: Shau@
+2024-11-08 14:53:56,505:WARNING:name_email_mobile_validation:Invalid first name entered: S
+2024-11-08 14:53:56,505:INFO:name_email_mobile_validation:Valid first name entered: Sha
+2024-11-08 14:53:56,506:INFO:name_email_mobile_validation:Valid last name entered: Kumar
+2024-11-08 14:53:56,508:INFO:name_email_mobile_validation:Valid last name entered: Smith
+2024-11-08 14:53:56,509:WARNING:name_email_mobile_validation:Invalid last name entered: kumar
+2024-11-08 14:53:56,511:WARNING:name_email_mobile_validation:Invalid last name entered: KUMAR
+2024-11-08 14:53:56,511:WARNING:name_email_mobile_validation:Invalid last name entered: Ku
+2024-11-08 14:53:56,512:WARNING:name_email_mobile_validation:Invalid last name entered: 1234
+2024-11-08 14:53:56,513:WARNING:name_email_mobile_validation:Invalid last name entered: !@#
+2024-11-08 14:53:56,514:WARNING:name_email_mobile_validation:Invalid last name entered: Kum@
+2024-11-08 14:53:56,516:WARNING:name_email_mobile_validation:Invalid last name entered: K
+2024-11-08 14:53:56,518:INFO:name_email_mobile_validation:Valid last name entered: Kim
+2024-11-08 14:53:56,520:INFO:name_email_mobile_validation:Valid email entered: abc.xyz@bl.co.in
+2024-11-08 14:53:56,521:INFO:name_email_mobile_validation:Valid email entered: abc@bl.co
+2024-11-08 14:53:56,522:INFO:name_email_mobile_validation:Valid email entered: abc.xyz@bl.co
+2024-11-08 14:53:56,554:INFO:name_email_mobile_validation:Valid email entered: a.b@bl.co.in
+2024-11-08 14:53:56,555:INFO:name_email_mobile_validation:Valid email entered: abc@bl.co.in
+2024-11-08 14:53:56,557:INFO:name_email_mobile_validation:Valid mobile number entered: 91 6203494332
+2024-11-08 14:53:56,560:WARNING:name_email_mobile_validation:Invalid mobile number entered: 919919819801
+2024-11-08 14:53:56,561:WARNING:name_email_mobile_validation:Invalid mobile number entered: 91 991981980
+2024-11-08 14:53:56,562:WARNING:name_email_mobile_validation:Invalid mobile number entered: 91 99198198012
+2024-11-08 14:53:56,563:WARNING:name_email_mobile_validation:Invalid mobile number entered: 92 9919819801
+2024-11-08 14:53:56,564:WARNING:name_email_mobile_validation:Invalid mobile number entered: 91-9919819801
+2024-11-08 14:53:56,566:WARNING:name_email_mobile_validation:Invalid mobile number entered: 9919819801
+2024-11-08 14:53:56,566:WARNING:name_email_mobile_validation:Invalid mobile number entered: 91 99198A9801
+2024-11-08 14:53:56,568:INFO:name_email_mobile_validation:Valid mobile number entered: 91 0000000000
+2024-11-08 14:54:29,614:INFO:name_email_mobile_validation:Valid first name entered: Shaurya
+2024-11-08 14:54:29,619:WARNING:name_email_mobile_validation:Invalid first name entered: shaurya
+2024-11-08 14:54:29,619:WARNING:name_email_mobile_validation:Invalid first name entered: SHAURYA
+2024-11-08 14:54:29,620:WARNING:name_email_mobile_validation:Invalid first name entered: Sh
+2024-11-08 14:54:29,621:WARNING:name_email_mobile_validation:Invalid first name entered: S
+2024-11-08 14:54:29,622:WARNING:name_email_mobile_validation:Invalid first name entered: 1234
+2024-11-08 14:54:29,622:WARNING:name_email_mobile_validation:Invalid first name entered: !@#
+2024-11-08 14:54:29,623:WARNING:name_email_mobile_validation:Invalid first name entered: Shau@
+2024-11-08 14:54:29,624:WARNING:name_email_mobile_validation:Invalid first name entered: S
+2024-11-08 14:54:29,625:INFO:name_email_mobile_validation:Valid first name entered: Sha
+2024-11-08 14:54:29,626:INFO:name_email_mobile_validation:Valid last name entered: Kumar
+2024-11-08 14:54:29,628:INFO:name_email_mobile_validation:Valid last name entered: Smith
+2024-11-08 14:54:29,630:WARNING:name_email_mobile_validation:Invalid last name entered: kumar
+2024-11-08 14:54:29,631:WARNING:name_email_mobile_validation:Invalid last name entered: KUMAR
+2024-11-08 14:54:29,631:WARNING:name_email_mobile_validation:Invalid last name entered: Ku
+2024-11-08 14:54:29,632:WARNING:name_email_mobile_validation:Invalid last name entered: 1234
+2024-11-08 14:54:29,633:WARNING:name_email_mobile_validation:Invalid last name entered: !@#
+2024-11-08 14:54:29,633:WARNING:name_email_mobile_validation:Invalid last name entered: Kum@
+2024-11-08 14:54:29,635:WARNING:name_email_mobile_validation:Invalid last name entered: K
+2024-11-08 14:54:29,636:INFO:name_email_mobile_validation:Valid last name entered: Kim
+2024-11-08 14:54:29,637:INFO:name_email_mobile_validation:Valid email entered: abc.xyz@bl.co.in
+2024-11-08 14:54:29,639:INFO:name_email_mobile_validation:Valid email entered: abc@bl.co
+2024-11-08 14:54:29,640:INFO:name_email_mobile_validation:Valid email entered: abc.xyz@bl.co
+2024-11-08 14:54:29,678:INFO:name_email_mobile_validation:Valid email entered: a.b@bl.co.in
+2024-11-08 14:54:29,679:INFO:name_email_mobile_validation:Valid email entered: abc@bl.co.in
+2024-11-08 14:54:29,682:INFO:name_email_mobile_validation:Valid mobile number entered: 91 6203494332
+2024-11-08 14:54:29,683:WARNING:name_email_mobile_validation:Invalid mobile number entered: 919919819801
+2024-11-08 14:54:29,684:WARNING:name_email_mobile_validation:Invalid mobile number entered: 91 991981980
+2024-11-08 14:54:29,685:WARNING:name_email_mobile_validation:Invalid mobile number entered: 91 99198198012
+2024-11-08 14:54:29,686:WARNING:name_email_mobile_validation:Invalid mobile number entered: 92 9919819801
+2024-11-08 14:54:29,686:WARNING:name_email_mobile_validation:Invalid mobile number entered: 91-9919819801
+2024-11-08 14:54:29,687:WARNING:name_email_mobile_validation:Invalid mobile number entered: 9919819801
+2024-11-08 14:54:29,688:WARNING:name_email_mobile_validation:Invalid mobile number entered: 91 99198A9801
+2024-11-08 14:54:29,689:INFO:name_email_mobile_validation:Valid mobile number entered: 91 0000000000
+2024-11-08 14:56:06,099:INFO:example:This is an info message
+2024-11-08 14:56:06,099:WARNING:example:This is a warning message
+2024-11-08 14:56:06,100:ERROR:example:This is an error message
+2024-11-08 14:56:06,101:CRITICAL:example:This is a critical message
+2024-11-08 14:56:20,211:INFO:name_email_mobile_validation:Valid first name entered: Shaurya
+2024-11-08 14:56:20,216:WARNING:name_email_mobile_validation:Invalid first name entered: shaurya
+2024-11-08 14:56:20,218:WARNING:name_email_mobile_validation:Invalid first name entered: SHAURYA
+2024-11-08 14:56:20,219:WARNING:name_email_mobile_validation:Invalid first name entered: Sh
+2024-11-08 14:56:20,219:WARNING:name_email_mobile_validation:Invalid first name entered: S
+2024-11-08 14:56:20,220:WARNING:name_email_mobile_validation:Invalid first name entered: 1234
+2024-11-08 14:56:20,221:WARNING:name_email_mobile_validation:Invalid first name entered: !@#
+2024-11-08 14:56:20,221:WARNING:name_email_mobile_validation:Invalid first name entered: Shau@
+2024-11-08 14:56:20,223:WARNING:name_email_mobile_validation:Invalid first name entered: S
+2024-11-08 14:56:20,224:INFO:name_email_mobile_validation:Valid first name entered: Sha
+2024-11-08 14:56:20,225:INFO:name_email_mobile_validation:Valid last name entered: Kumar
+2024-11-08 14:56:20,226:INFO:name_email_mobile_validation:Valid last name entered: Smith
+2024-11-08 14:56:20,228:WARNING:name_email_mobile_validation:Invalid last name entered: kumar
+2024-11-08 14:56:20,229:WARNING:name_email_mobile_validation:Invalid last name entered: KUMAR
+2024-11-08 14:56:20,229:WARNING:name_email_mobile_validation:Invalid last name entered: Ku
+2024-11-08 14:56:20,230:WARNING:name_email_mobile_validation:Invalid last name entered: 1234
+2024-11-08 14:56:20,231:WARNING:name_email_mobile_validation:Invalid last name entered: !@#
+2024-11-08 14:56:20,231:WARNING:name_email_mobile_validation:Invalid last name entered: Kum@
+2024-11-08 14:56:20,233:WARNING:name_email_mobile_validation:Invalid last name entered: K
+2024-11-08 14:56:20,234:INFO:name_email_mobile_validation:Valid last name entered: Kim
+2024-11-08 14:56:20,236:INFO:name_email_mobile_validation:Valid email entered: abc.xyz@bl.co.in
+2024-11-08 14:56:20,237:INFO:name_email_mobile_validation:Valid email entered: abc@bl.co
+2024-11-08 14:56:20,238:INFO:name_email_mobile_validation:Valid email entered: abc.xyz@bl.co
+2024-11-08 14:56:20,307:INFO:name_email_mobile_validation:Valid email entered: a.b@bl.co.in
+2024-11-08 14:56:20,307:INFO:name_email_mobile_validation:Valid email entered: abc@bl.co.in
+2024-11-08 14:56:20,308:INFO:name_email_mobile_validation:Valid mobile number entered: 91 6203494332
+2024-11-08 14:56:20,311:WARNING:name_email_mobile_validation:Invalid mobile number entered: 919919819801
+2024-11-08 14:56:20,311:WARNING:name_email_mobile_validation:Invalid mobile number entered: 91 991981980
+2024-11-08 14:56:20,312:WARNING:name_email_mobile_validation:Invalid mobile number entered: 91 99198198012
+2024-11-08 14:56:20,313:WARNING:name_email_mobile_validation:Invalid mobile number entered: 92 9919819801
+2024-11-08 14:56:20,313:WARNING:name_email_mobile_validation:Invalid mobile number entered: 91-9919819801
+2024-11-08 14:56:20,314:WARNING:name_email_mobile_validation:Invalid mobile number entered: 9919819801
+2024-11-08 14:56:20,315:WARNING:name_email_mobile_validation:Invalid mobile number entered: 91 99198A9801
+2024-11-08 14:56:20,316:INFO:name_email_mobile_validation:Valid mobile number entered: 91 0000000000
+2024-11-08 14:56:20,774:INFO:name_email_mobile_validation:Valid first name entered: Shaurya
+2024-11-08 14:56:20,780:WARNING:name_email_mobile_validation:Invalid first name entered: shaurya
+2024-11-08 14:56:20,781:WARNING:name_email_mobile_validation:Invalid first name entered: SHAURYA
+2024-11-08 14:56:20,782:WARNING:name_email_mobile_validation:Invalid first name entered: Sh
+2024-11-08 14:56:20,783:WARNING:name_email_mobile_validation:Invalid first name entered: S
+2024-11-08 14:56:20,784:WARNING:name_email_mobile_validation:Invalid first name entered: 1234
+2024-11-08 14:56:20,784:WARNING:name_email_mobile_validation:Invalid first name entered: !@#
+2024-11-08 14:56:20,785:WARNING:name_email_mobile_validation:Invalid first name entered: Shau@
+2024-11-08 14:56:20,787:WARNING:name_email_mobile_validation:Invalid first name entered: S
+2024-11-08 14:56:20,788:INFO:name_email_mobile_validation:Valid first name entered: Sha
+2024-11-08 14:56:20,790:INFO:name_email_mobile_validation:Valid last name entered: Kumar
+2024-11-08 14:56:20,791:INFO:name_email_mobile_validation:Valid last name entered: Smith
+2024-11-08 14:56:20,793:WARNING:name_email_mobile_validation:Invalid last name entered: kumar
+2024-11-08 14:56:20,794:WARNING:name_email_mobile_validation:Invalid last name entered: KUMAR
+2024-11-08 14:56:20,795:WARNING:name_email_mobile_validation:Invalid last name entered: Ku
+2024-11-08 14:56:20,795:WARNING:name_email_mobile_validation:Invalid last name entered: 1234
+2024-11-08 14:56:20,796:WARNING:name_email_mobile_validation:Invalid last name entered: !@#
+2024-11-08 14:56:20,797:WARNING:name_email_mobile_validation:Invalid last name entered: Kum@
+2024-11-08 14:56:20,799:WARNING:name_email_mobile_validation:Invalid last name entered: K
+2024-11-08 14:56:20,799:INFO:name_email_mobile_validation:Valid last name entered: Kim
+2024-11-08 14:56:20,801:INFO:name_email_mobile_validation:Valid email entered: abc.xyz@bl.co.in
+2024-11-08 14:56:20,802:INFO:name_email_mobile_validation:Valid email entered: abc@bl.co
+2024-11-08 14:56:20,804:INFO:name_email_mobile_validation:Valid email entered: abc.xyz@bl.co
+2024-11-08 14:56:20,832:INFO:name_email_mobile_validation:Valid email entered: a.b@bl.co.in
+2024-11-08 14:56:20,833:INFO:name_email_mobile_validation:Valid email entered: abc@bl.co.in
+2024-11-08 14:56:20,835:INFO:name_email_mobile_validation:Valid mobile number entered: 91 6203494332
+2024-11-08 14:56:20,836:WARNING:name_email_mobile_validation:Invalid mobile number entered: 919919819801
+2024-11-08 14:56:20,838:WARNING:name_email_mobile_validation:Invalid mobile number entered: 91 991981980
+2024-11-08 14:56:20,839:WARNING:name_email_mobile_validation:Invalid mobile number entered: 91 99198198012
+2024-11-08 14:56:20,839:WARNING:name_email_mobile_validation:Invalid mobile number entered: 92 9919819801
+2024-11-08 14:56:20,840:WARNING:name_email_mobile_validation:Invalid mobile number entered: 91-9919819801
+2024-11-08 14:56:20,841:WARNING:name_email_mobile_validation:Invalid mobile number entered: 9919819801
+2024-11-08 14:56:20,842:WARNING:name_email_mobile_validation:Invalid mobile number entered: 91 99198A9801
+2024-11-08 14:56:20,844:INFO:name_email_mobile_validation:Valid mobile number entered: 91 0000000000
+2024-11-08 15:00:40,257:INFO:example:This is an info message
+2024-11-08 15:00:40,257:WARNING:example:This is a warning message
+2024-11-08 15:00:40,258:ERROR:example:This is an error message
+2024-11-08 15:00:40,258:CRITICAL:example:This is a critical message
+2024-11-08 15:00:45,656:INFO:example:This is an info message
+2024-11-08 15:00:45,656:WARNING:example:This is a warning message
+2024-11-08 15:00:45,656:ERROR:example:This is an error message
+2024-11-08 15:00:45,656:CRITICAL:example:This is a critical message
+2024-11-08 15:00:52,303:INFO:name_email_mobile_validation:Valid first name entered: Shaurya
+2024-11-08 15:00:52,311:WARNING:name_email_mobile_validation:Invalid first name entered: shaurya
+2024-11-08 15:00:52,312:WARNING:name_email_mobile_validation:Invalid first name entered: SHAURYA
+2024-11-08 15:00:52,312:WARNING:name_email_mobile_validation:Invalid first name entered: Sh
+2024-11-08 15:00:52,313:WARNING:name_email_mobile_validation:Invalid first name entered: S
+2024-11-08 15:00:52,314:WARNING:name_email_mobile_validation:Invalid first name entered: 1234
+2024-11-08 15:00:52,315:WARNING:name_email_mobile_validation:Invalid first name entered: !@#
+2024-11-08 15:00:52,316:WARNING:name_email_mobile_validation:Invalid first name entered: Shau@
+2024-11-08 15:00:52,320:WARNING:name_email_mobile_validation:Invalid first name entered: S
+2024-11-08 15:00:52,321:INFO:name_email_mobile_validation:Valid first name entered: Sha
+2024-11-08 15:00:52,323:INFO:name_email_mobile_validation:Valid last name entered: Kumar
+2024-11-08 15:00:52,324:INFO:name_email_mobile_validation:Valid last name entered: Smith
+2024-11-08 15:00:52,326:WARNING:name_email_mobile_validation:Invalid last name entered: kumar
+2024-11-08 15:00:52,327:WARNING:name_email_mobile_validation:Invalid last name entered: KUMAR
+2024-11-08 15:00:52,327:WARNING:name_email_mobile_validation:Invalid last name entered: Ku
+2024-11-08 15:00:52,328:WARNING:name_email_mobile_validation:Invalid last name entered: 1234
+2024-11-08 15:00:52,328:WARNING:name_email_mobile_validation:Invalid last name entered: !@#
+2024-11-08 15:00:52,328:WARNING:name_email_mobile_validation:Invalid last name entered: Kum@
+2024-11-08 15:00:52,331:WARNING:name_email_mobile_validation:Invalid last name entered: K
+2024-11-08 15:00:52,332:INFO:name_email_mobile_validation:Valid last name entered: Kim
+2024-11-08 15:00:52,336:INFO:name_email_mobile_validation:Valid email entered: abc.xyz@bl.co.in
+2024-11-08 15:00:52,337:INFO:name_email_mobile_validation:Valid email entered: abc@bl.co
+2024-11-08 15:00:52,338:INFO:name_email_mobile_validation:Valid email entered: abc.xyz@bl.co
+2024-11-08 15:00:52,369:INFO:name_email_mobile_validation:Valid email entered: a.b@bl.co.in
+2024-11-08 15:00:52,370:INFO:name_email_mobile_validation:Valid email entered: abc@bl.co.in
+2024-11-08 15:00:52,373:INFO:name_email_mobile_validation:Valid mobile number entered: 91 6203494332
+2024-11-08 15:00:52,374:WARNING:name_email_mobile_validation:Invalid mobile number entered: 919919819801
+2024-11-08 15:00:52,375:WARNING:name_email_mobile_validation:Invalid mobile number entered: 91 991981980
+2024-11-08 15:00:52,376:WARNING:name_email_mobile_validation:Invalid mobile number entered: 91 99198198012
+2024-11-08 15:00:52,376:WARNING:name_email_mobile_validation:Invalid mobile number entered: 92 9919819801
+2024-11-08 15:00:52,378:WARNING:name_email_mobile_validation:Invalid mobile number entered: 91-9919819801
+2024-11-08 15:00:52,378:WARNING:name_email_mobile_validation:Invalid mobile number entered: 9919819801
+2024-11-08 15:00:52,379:WARNING:name_email_mobile_validation:Invalid mobile number entered: 91 99198A9801
+2024-11-08 15:00:52,381:INFO:name_email_mobile_validation:Valid mobile number entered: 91 0000000000
