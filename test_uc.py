@@ -1,5 +1,5 @@
 import pytest
-from user import is_valid_first_name, is_valid_last_name, is_valid_email  # Import functions from user.py
+from user import is_valid_first_name, is_valid_last_name, is_valid_email, is_valid_mobile  # Import functions from employee module
 
 # First name test cases
 def test_valid_first_name():
@@ -54,6 +54,22 @@ def test_invalid_email():
 def test_edge_case_emails():
     assert is_valid_email("a.b@bl.co.in") is True  # Minimal local part with dots
     assert is_valid_email("abc@bl.co.in") is True  # Email without optional middle local part
+
+# Mobile number test cases
+def test_valid_mobile():
+    assert is_valid_mobile("91 6203494332") is True  # Valid mobile number with country code and space
+
+def test_invalid_mobile():
+    assert is_valid_mobile("919919819801") is False  # Missing space after country code
+    assert is_valid_mobile("91 991981980") is False  # Less than 10 digits
+    assert is_valid_mobile("91 99198198012") is False  # More than 10 digits
+    assert is_valid_mobile("92 9919819801") is False  # Incorrect country code
+    assert is_valid_mobile("91-9919819801") is False  # Dash instead of space
+    assert is_valid_mobile("9919819801") is False  # Missing country code
+    assert is_valid_mobile("91 99198A9801") is False  # Contains non-numeric character
+
+def test_edge_case_mobile():
+    assert is_valid_mobile("91 0000000000") is True  # Edge case with all zeros, still valid format
 
 # Run the test cases
 if __name__ == "__main__":
